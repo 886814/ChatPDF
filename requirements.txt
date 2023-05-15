@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+pandas
+openai
+scikit-learn==0.24.1
+logging
+sentence_transformers
